@@ -1,2 +1,2 @@
 # Python
-This my Python for development Repository
+This is my Python for development Repository
